@@ -1,0 +1,102 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(29, 29, 29);
+}
+
+.cinza {
+    background-color: rgb(221, 220, 220);
+    width: 100vw;
+    height: 100vh;
+}
+
+.box1 {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.box2 {
+    position: fixed;
+    left: 105px;
+    top: 0px;
+
+}
+
+.box3 {
+    position: fixed;
+    left: 210px;
+    top: 0px;
+
+}
+
+.box4 {
+    position: fixed;
+    left: 0px;
+    top: 105px;
+
+}
+
+.box5 {
+    position: fixed;
+    left: 105px;
+    top: 105px;
+
+}
+
+.box6 {
+    position: fixed;
+    top: 210px;
+
+}
+
+
+.box7 {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+
+}
+
+.box8 {
+    position: fixed;
+    bottom: 0px;
+    right: 105px;
+
+}
+
+.box9 {
+    position: fixed;
+    bottom: 0px;
+    right: 210px;
+
+}
+
+.box10 {
+    position: fixed;
+    bottom: 105px;
+    right: 0px;
+
+}
+
+.box11 {
+    position: fixed;
+    bottom: 105px;
+    right: 105px;
+
+}
+
+.box12 {
+    position: fixed;
+    bottom: 210px;
+    right: 0px;
+
+}
+
+
